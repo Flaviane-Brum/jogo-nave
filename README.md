@@ -22,7 +22,6 @@ Digital Innovation One</h2>
    <h3 id="preview">:camera_flash: Tela 2</h3>
   <img src="./imgs/tela2.png" />
   <br><br>
-  <hr/>
 
 </div>
 
